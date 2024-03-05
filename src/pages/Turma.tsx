@@ -261,7 +261,12 @@ function Turma() {
             github="https://github.com/VitoriaH1611"
           />
 
-          <Apresentacao nome="Wendy" foto="" linkedin="" github="" />
+          <Apresentacao
+            nome="Wendy"
+            foto="https://avatars.githubusercontent.com/u/151972765?v=4"
+            linkedin=""
+            github="https://github.com/WendyRose-s2"
+          />
 
           <Apresentacao
             nome="Yuri Henrick"
