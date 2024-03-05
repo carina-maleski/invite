@@ -206,7 +206,7 @@ function Turma() {
           <Apresentacao
             nome="Marília Tostes"
             foto="https://avatars.githubusercontent.com/u/133540781?v=4"
-            linkedin="https://www.linkedin.com/in/marilia-ribeiro-tostes/"
+            linkedin="https://www.linkedin.com/in/marilia-tostes/"
             github="https://github.com/mariliatostesdev"
           />
           <Apresentacao
