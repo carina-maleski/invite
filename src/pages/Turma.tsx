@@ -228,17 +228,22 @@ function Turma() {
             linkedin="https://www.linkedin.com/in/nat%C3%A1lia-olgado/"
             github="https://github.com/NataliaOlgado"
           />
-          <Apresentacao nome="Rafael Carmo" foto="" linkedin="" github="" />
+          <Apresentacao
+            nome="Rafael Carmo"
+            foto="https://avatars.githubusercontent.com/u/151798963?v=4"
+            linkedin="https://www.linkedin.com/in/rpimentelcarmo/"
+            github="https://github.com/Rflpmt"
+          />
 
           <Apresentacao
             nome="Rafael Venâncio"
-            foto=""
+            foto="https://avatars.githubusercontent.com/u/131331392?v=4"
             linkedin="https://www.linkedin.com/in/venancio-rafael/"
             github="https://github.com/doncob"
           />
           <Apresentacao
             nome="Samuel Ferreira"
-            foto=""
+            foto="https://avatars.githubusercontent.com/u/151537218?v=4"
             linkedin="https://www.linkedin.com/in/samuel-ferreira-da-silva/"
             github="https://github.com/samuelferreira25"
           />
