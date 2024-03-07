@@ -9,7 +9,7 @@ function Convite() {
         <p>Clique no botão abaixo para entrar na sala</p>
       </div>
 
-      <a href="https://generationinitiative.zoom.us/my/geandro" target="_blank">
+      <a href="https://generationinitiative.zoom.us/j/4600987405?omn=99190283429" target="_blank">
         <button className="bg-orange-200 py-4 px-8 rounded-full font-semibold hover:bg-orange-400">
           Entrar
         </button>
