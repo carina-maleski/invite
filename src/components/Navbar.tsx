@@ -7,7 +7,7 @@ function Navbar() {
         </h1>
 
         <a
-          href="https://generationinitiative.zoom.us/my/geandro"
+          href="https://generationinitiative.zoom.us/j/4600987405?omn=99190283429"
           target="_blank"
         >
           <button className="bg-orange-200 py-2 px-4 rounded-full font-semibold hover:bg-orange-400">
