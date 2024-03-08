@@ -322,7 +322,7 @@ function Turma() {
             nome="Rafael Venâncio"
             foto="https://avatars.githubusercontent.com/u/131331392?v=4"
             linkedin="https://www.linkedin.com/in/venancio-rafael/"
-            github="https://github.com/doncob"
+            github="https://github.com/r-venancio"
           />
           <Apresentacao
             nome="Samuel Ferreira"
